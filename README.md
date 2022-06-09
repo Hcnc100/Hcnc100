@@ -1,16 +1,30 @@
-### Hi there 👋
+# Hello, my name is Ricardo Pajaro Coatl
+### Android developer
 
-<!--
-**Hcnc100/Hcnc100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have knowledge in software development, with a tendency to develop mobile applications, using Kotlin as the main language. Passionate about self-taught learning and with the philosophy of never stopping learning.
+
+## Skills:
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
+[![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
+[![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
+</br>
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
+</br>
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
+</br>
+And more...
+
+## Find me at:
+
+[![Twitter](https://img.shields.io/badge/Twitter-@hcnc-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/Ricardo_hcnc)
+[![Instagram](https://img.shields.io/badge/Instagram-@ricardopajarocoatl1-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/ricardopajarocoatl1/)
+[![TikTok](https://img.shields.io/badge/TikTok-@hcnc100-69C9D0?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=101010)](https://www.tiktok.com/@hcnc100)
+[![Facebook](https://img.shields.io/badge/Facebook-@ricardo.pajarocoatl-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://www.facebook.com/ricardo.pajarocoatl)
+</br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ricardo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/ricardo-pajaro-coatl-484753241)
+[![Link](https://img.shields.io/badge/Link_Site-null.dev-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://null-pointer-dev.web.app)
+
