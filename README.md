@@ -28,3 +28,11 @@ And more...
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ricardo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/ricardo-pajaro-coatl-484753241)
 [![Link](https://img.shields.io/badge/Link_Site-null.dev-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://null-pointer-dev.web.app)
 
+## Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hcnc100&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hcnc100&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
