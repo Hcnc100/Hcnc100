@@ -30,9 +30,9 @@ And more...
 
 ## Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hcnc100&theme=radical)
+![GitHub Stats](https://github-readme-stats-hcnc100.vercel.app/api?username=hcnc100&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hcnc100&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-hcnc100.vercel.app/api/top-langs/?username=hcnc100&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
